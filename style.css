@@ -37,3 +37,9 @@ p {
     background-color: antiquewhite;
     border-radius: 10px;
 }
+
+@media(max-width: 667px) {
+    input {
+        width: 190px;
+    }
+}
